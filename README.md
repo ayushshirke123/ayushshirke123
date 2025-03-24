@@ -1,5 +1,8 @@
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736861726b266865696768743d33302673656374696f6e3d68656164657226726576657273616c3d66616c73652663](https://github.com/user-attachments/assets/18426816-d3ee-464c-9b5c-aca31d5bb6aa)![marquee](https://github.com/user-attachments/assets/fcc6d002-3bed-4b67-9f79-868f8e9cfeb3)- 👋 Hi, I’m @ayushshirke123
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3266433863647541633335554941784844452f67697068792e676966](https://github.com/user-attachments/assets/6eceef5b-51ff-40b8-95b8-997b4f74747d)
+
+
 <!---![Upl<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="110%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -96,6 +99,11 @@ oading marquee.svg…]()
 
 
 💫 About Me:
+
+
+
+
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3266433863647541633335554941784844452f67697068792e676966](https://github.com/user-attachments/assets/6eceef5b-51ff-40b8-95b8-997b4f74747d)
 
 
 
