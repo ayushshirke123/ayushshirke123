@@ -67,12 +67,13 @@
 <!--## 🌐 Socials:-->
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani_56" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ayushshirke123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpvasani_56" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ayush-shirke-b06366298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Shirke" height="30" width="40" /></a>
   
   
-  <a href="https://leetcode.com/u/ayushshirke123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"" alt="gfg" height="40" width="40" /></a>
+ 
 </p>
+
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 <!--Skills-->
