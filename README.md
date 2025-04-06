@@ -6,8 +6,8 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400"> -->
 
 <!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -61,17 +61,17 @@
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
- 🔭 I’m currently working on **Social Media Web Aplication**<br><br>- 🌱 I’m currently learning **MERN Stack , Three.js , Tailwind.css**<br><br>- 👯 I’m looking to collaborate on **MERN Stack Projects**<br><br>- 🤝 I’m looking for help with **MERN Stack Student**<br><br>- 👨‍💻 All of my projects are available at <a href="https://github.com/ShivamSeamar">[GitHub]</a><br><br>- 💬 Ask me about **MERN stack Developer**<br><br>- 📫 How to reach me :  shivamseamar5290@gmail.com <br><br>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1b8RWPzNdgzGv-EdAMEq8k94nRkN7m7jt/view?usp=sharing" alt="Resume Link">[Resume]</a><br><br>- ⚡ Fun fact **I am lazy but smart i**<br>
+ 🔭 I’m currently working on **Frontend Development**<br><br>- 🌱 I’m currently learning **C++ , MongoDB , Tailwind.css**<br><br>- 🤝 I’m looking for help with **Frontend Student**<br><br>- 👨‍💻 All of my projects are available at <a href="https://github.com/ayushshirke123">[GitHub]</a><br><br>- 💬 Ask me about **Frontend Developer**<br><br>- 📫 How to reach me :  ayushshirke123@gmail.com <br><br>- ⚡ Fun fact **I am lazy but smart i**<br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 <!--## 🌐 Socials:-->
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
 <p align="left">
   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dpvasani_56" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/shivamseamar25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Vasani" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/shivamseamar25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dp_vasani56" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dpvasani_56" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/shivamsea2svd/?ref=header_profile" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="gfg" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ayush-shirke-b06366298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayush Shirke" height="30" width="40" /></a>
+  
+  
+  <a href="https://leetcode.com/u/ayushshirke123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"" alt="gfg" height="40" width="40" /></a>
 </p>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
@@ -79,8 +79,8 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 💻
 
 <table align="center" class="table table-dark">
-  <tr bg-dark>
-     <td align="center" width="90">
+  <tr>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
     </td>
@@ -93,82 +93,16 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
-      <br>Node Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
-      <br>Next Js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="55" height="55" />
-      <br>Three.JS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=windows" alt="icon" width="55" height="55" />
-      <br> Window
-    </td>
-  </tr>
-  <tr>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
-      <br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
       <br>Vite
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="55" height="55" />
-      <br>Npm
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="55" height="55" />
-      <br>Fast API
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" width="55" height="55" />
-      <br>Stackoverflow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="55" height="55" />
-      <br>JQwery
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
+      <br>Python
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
       <br>C
     </td>
@@ -180,102 +114,36 @@
       <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
       <br>Java
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=eclipse" alt="icon" width="55" height="55" />
-      <br>eclipse
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
-      <br>vscode
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=discord" alt="icon" width="55" height="55" />
-      <br>Discord
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="icon" width="55" height="55" />
-      <br>Instagram
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="55" height="55" />
-      <br>LinkedIn
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="icon" width="55" height="55" />
-      <br>Twitter
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
+      <br>VS Code
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>Cloud
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="55" height="55" />
-      <br>Azure
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
+      <br>GitHub
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="55" height="55" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="55" height="55" />
-      <br>wordpress
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
-      <br>Photoshop
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ai" alt="icon" width="55" height="55" />
-      <br>Illustrator 
-    </td>
-     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=blender" alt="icon" width="55" height="55" />
       <br>Blender
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="55" height="55" />
-      <br>Figma
-    </td>
   </tr>
 </table>
+
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivamSeamar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShivamSeamar&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSeamar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShivamSeamar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<p align="left">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg "  height="" width="400">
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<h4 align="right">
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-<p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
-</p>
-</details>
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -313,7 +181,7 @@
 <img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
 <!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/Subreddit-Memes -->
 <p align="center">
-<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
+<img src="https://plaky.com/blog/wp-content/uploads/2023/08/Intro.jpg" width="400px"/>
 
 <!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -359,7 +227,7 @@ ANYONE can take a turn on the board
 <!-- END MOVES LIST -->
 
 
-<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+<!-- 🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/
 <h4 align="left">
 </h4>
  
@@ -372,72 +240,14 @@ ANYONE can take a turn on the board
 
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="left">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"> -->
  
-<!--🦶FOOTER--> 
 
 
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--<p align="right">
-RECENT_ACTIVITY:last_update
-<i>Last refresh</i> : <b>Thursday, November 28th, 2024, 1:12:54 PM</b>
-<!--RECENT_ACTIVITY:last_update_end-->
+    
 
-<!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
-<br><p align="center">
-<a href="https://github.com/ShivamSeamar/ShivamSeamar/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=trinib/trinib&max=10&anon=true" />
-</a>
-
-<!-- 
-
-𝐈𝐅 𝐘𝐎𝐔 𝐑𝐄𝐀𝐂𝐇𝐄𝐃 𝐇𝐄𝐑𝐄 (C O N G R A T S 🎉🎈🎊) 
-
-𝐂𝐇𝐄𝐂𝐊 𝐎𝐔𝐓 𝐓𝐇𝐄𝐒𝐄:
-
-
-██████╗ ███████╗ █████╗ ██╗   ██╗████████╗██╗███████╗██╗   ██╗     ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔══██╗██╔════╝██╔══██╗██║   ██║╚══██╔══╝██║██╔════╝╚██╗ ██╔╝    ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  ███████║██║   ██║   ██║   ██║█████╗   ╚████╔╝     ██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══██║██║   ██║   ██║   ██║██╔══╝    ╚██╔╝      ██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██████╔╝███████╗██║  ██║╚██████╔╝   ██║   ██║██║        ██║       ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝╚═╝        ╚═╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝                                         
-https://github.com/rzashakeri/beautify-github-profile
-
-
- ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗     ███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗
-██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗    ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║
-██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝    ███████╗█████╗  ███████║██████╔╝██║     ███████║
-██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗    ╚════██║██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║
-╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝    ███████║███████╗██║  ██║██║  ██║╚██████╗██║  ██║
- ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-https://github.com/gennaro-tedesco/gh-s
-
-
-███████╗██╗   ██╗███╗   ██╗ ██████╗    ███████╗ ██████╗ ██████╗ ██╗  ██╗███████╗
-██╔════╝╚██╗ ██╔╝████╗  ██║██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██║ ██╔╝██╔════╝
-███████╗ ╚████╔╝ ██╔██╗ ██║██║         █████╗  ██║   ██║██████╔╝█████╔╝ ███████╗
-╚════██║  ╚██╔╝  ██║╚██╗██║██║         ██╔══╝  ██║   ██║██╔══██╗██╔═██╗ ╚════██║
-███████║   ██║   ██║ ╚████║╚██████╗    ██║     ╚██████╔╝██║  ██║██║  ██╗███████║
-╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-https://github.com/wei/pull
-
-██████╗ ███████╗███████╗██╗███╗   ██╗███████╗██████╗        ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
-██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝██╔══██╗      ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
-██████╔╝█████╗  █████╗  ██║██╔██╗ ██║█████╗  ██║  ██║█████╗██║  ███╗██║   ██║   ███████║██║   ██║██████╔╝
-██╔══██╗██╔══╝  ██╔══╝  ██║██║╚██╗██║██╔══╝  ██║  ██║╚════╝██║   ██║██║   ██║   ██╔══██║██║   ██║██╔══██╗
-██║  ██║███████╗██║     ██║██║ ╚████║███████╗██████╔╝      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═════╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
-https://github.com/refined-github/refined-github
-
--->     
-[![](https://visitcount.itsvg.in/api?id=ShivamSeamar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
